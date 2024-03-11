@@ -1,0 +1,22 @@
+Servidor en línea
+https://www.netlify.com/
+
+Editor de Código
+https://vscode.dev/
+
+Colores en Bootstrap
+https://getbootstrap.com/docs/5.3/utilities/borders/#color
+
+Edición de imagénes con Canva
+https://www.canva.com/
+Tamaños de imagénes - 1500x1500 y 1920x600
+
+Stock de fotografías gratuitas
+https://pixabay.com/es/
+https://www.pexels.com/es-es/
+
+Iconos de FontAwesome
+https://fontawesome.com/v4/icons/
+
+Acortador de enlaces y QR
+http://bit.ly/

@@ -1,0 +1,34 @@
+.card {
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+.profile-pic {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: -100px auto 15px auto;
+    border: 6px solid white;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+}
+
+.profile-pic img {
+    object-fit: cover;
+}
+
+.cover-image {
+    height: 220px;
+    width: 100%;
+    object-fit: cover;
+}
+
+#link {
+    color: rgb(84, 84, 84);
+    text-decoration: none;
+}
+
+#link:hover {
+    color: #6f288b;
+    text-decoration: none;
+}
