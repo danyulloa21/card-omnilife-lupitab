@@ -16,9 +16,11 @@
     border: 6px solid white;
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
 }
-
+/* Ajustar img */
 .profile-pic img {
     object-fit: fill;
+    width: 100%;
+    height: 100%;
 }
 
 .cover-image {
